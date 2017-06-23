@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ait530/nytreact/issues"
   },
-  "homepage": "https://github.com/ait530/nytreact#readme"
+  "homepage": "https://github.com/ait530/nytreact#readme",
+  "devDependencies": {
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.0.0"
+  }
 }
