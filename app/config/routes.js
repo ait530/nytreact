@@ -31,11 +31,11 @@ module.exports = (
     <Route path="/" component={Main}>
 
       {/* If user selects Info or Chat show the appropriate component */}
-      <Route path="info" component={Info} />
-      <Route path="chat" component={Chat} />
+      <Route path="search" component={Search} />
+      <Route path="saved" component={Saved} />
 
       {/* If user selects any other path... we get the Info Route */}
-      <IndexRoute component={Info} />
+      <IndexRoute component={Search} />
 
     </Route>
   </Router>
