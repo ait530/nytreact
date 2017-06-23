@@ -1,8 +1,8 @@
 # :newspaper: NYT React Search
 
-## React-based rendition of the New York Times Article Search application.
+## React-based rendition of the New York Times Article Search application. The user can query and display articles using React.
 
-<p>Lists articles with title, date, and url.</p>
+<p><i>Lists articles with title, date, and url.</i></p>
 
 ### Technologies Used:
 <ul>
